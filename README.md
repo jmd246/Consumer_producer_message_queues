@@ -40,7 +40,7 @@ Both applications run on **separate ports**, illustrating how distributed servic
 ## 🔧 Technologies Used
 
 - **Java**
-- **Message Broker** (e.g., RabbitMQ, Apache Kafka, ActiveMQ)
+- **Message Broker** (Atremis)
 - **Jackson** (for JSON serialization/deserialization)
 - **LocalDateTime API** (Java Time)
 
