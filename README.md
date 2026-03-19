@@ -157,6 +157,6 @@ Using messaging queues allows systems to:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Joshua Doucette
 
 Your Name  
